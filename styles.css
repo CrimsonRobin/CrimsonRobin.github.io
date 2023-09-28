@@ -1,0 +1,24 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+#click_button{
+    border: .2rem solid salmon;
+    width: 30%;
+    height: 15%;
+    background-color: blueviolet;
+    color: aqua;
+    border-radius: 20px;
+}
+
+#click_word{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: xx-large;
+    text-decoration: underline;
+}
+
+#click_word:hover{
+    color: green;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
